@@ -1,21 +1,7 @@
-My Resume and LaTeX Template
-============================
+该简历模板基于 https://github.com/liweitianux/resume 进行修改，对一些格式进行了完善，使其更符合中文简历的格式，以下是参考图片
 
-Introduction
-------------
-This repository holds my [resume](resume-zh+en.pdf) (Chinese and English) and
-the [LaTeX template](resume.cls).
 
-The LaTeX template is based on the
-[YACC: Another Awesome CV](https://github.com/darwiin/yaac-another-awesome-cv)
-by Christophe Roger, which is further based on the
-[Plasmati Graduate CV](https://www.latextemplates.com/template/plasmati-graduate-cv)
-by Alessandro Plasmati.
-
-This template is also available on
-[Overleaf](https://www.overleaf.com/latex/templates/simple-resume-template-for-new-graduate-ying-jie-sheng-jian-li-mo-ban/hxrntvmmvnqt).
-Welcome to try it and report back.
-
+以下是源readme的使用教程
 Usage
 -----
 * Linux

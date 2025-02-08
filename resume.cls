@@ -29,7 +29,7 @@
 
 \RequirePackage[%
   a4paper,%
-  margin=1.5cm,%
+  margin=0.5cm,%
   includefoot,%
 ]{geometry}
 \RequirePackage{xparse}
@@ -103,7 +103,7 @@
 \newcommand*{\locationSymbol}{\faMapMarker*}
 \newcommand*{\phoneSymbol}{\faPhone}
 \newcommand*{\universitySymbol}{\faUniversity}
-
+\newcommand*{\zhihuSymbol}{\faZhihu}  % 新增的知乎图标别名
 % Color setup
 \ifdef{\@monochrome}{
   \definecolor{basecolor}{HTML}{000000}  % black
@@ -300,6 +300,8 @@
 \newcommand*{\degree}[1]{\icontext{\degreeSymbol}{#1}}
 % University
 \newcommand*{\university}[1]{\icontext{\universitySymbol}{#1}}
+% Zhihu (新增的知乎图标相关命令)
+\newcommand*{\zhihu}[1]{\icontext{\zhihuSymbol}{#1}}
 
 % LinkedIn: \linkedin{<username>}
 \newcommand*{\linkedin}[1]{%
