@@ -1,6 +1,6 @@
 该简历模板基于 https://github.com/liweitianux/resume 进行修改，对一些格式进行了完善，使其更符合中文简历的格式，以下是参考图片
 
-
+![](assets/QQ20250208-152356.png)
 以下是源readme的使用教程
 Usage
 -----
